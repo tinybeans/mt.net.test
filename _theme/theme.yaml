@@ -1,6 +1,6 @@
 id: "mt_net_test"
 label: "mt_net_test"
-version: "1.0.0"
+version: "1.0.1"
 author_link: "http://tom-okuwaki.movabletype.io/"
 author_name: "MTAppjQuery"
 description: "mt_net_test"
@@ -106,4 +106,3 @@ elements:
             filename: header_news.mtml
             label: header_news
     importer: template_set
-
